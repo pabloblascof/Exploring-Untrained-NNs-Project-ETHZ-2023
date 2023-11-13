@@ -1,5 +1,5 @@
 # Exploring-Untrained-NNs-Project-ETHZ-2023-
-Semester project on understanding training free neural networks
+Semester project on understanding training free neural networks. Disclaimer! The data used for obtaining the outputs are not included for ensuring privacy.
 
 ### Exploring Deep Decoder applied to MRI
 
